@@ -33,18 +33,6 @@ const (
 	badCharacter = string(byte(0))
 )
 
-// FrameEvent represents a single frame of animation.
-type FrameEvent int
-
-// FrameEvent types
-const (
-	EventNone FrameEvent = iota
-	EventAttack
-	EventMissile
-	EventSound
-	EventSkill
-)
-
 
 // New creates a new COF
 func New() *COF {
