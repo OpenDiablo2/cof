@@ -1,6 +1,6 @@
+github.com/OpenDiablo2/bitstream v0.0.0-20210818234514-9fca7e40e2b3 h1:FR8R13AaTKxSxTS8KzjmU7RnSsKnAVSOQUKYIoGhyY4=
+github.com/OpenDiablo2/bitstream v0.0.0-20210818234514-9fca7e40e2b3/go.mod h1:Wrs2YpoAmqLq/uBAKxZnW145BgzsVsLwxafjI3hkMhE=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/gravestench/bitstream v0.0.0-20210602033510-6e018ddc185f h1:RylukO1Wy+GixLCRtLZqj0sd1PcYuabOWcHEp0Wmvdc=
-github.com/gravestench/bitstream v0.0.0-20210602033510-6e018ddc185f/go.mod h1:FsgbN421v5maou5iKEE+7Rjzc9kaPVjCkqG4eQulejE=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=

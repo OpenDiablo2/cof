@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gravestench/bitstream"
+	"github.com/OpenDiablo2/bitstream"
 )
 
 const (
